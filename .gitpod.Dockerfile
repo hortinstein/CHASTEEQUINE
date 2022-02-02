@@ -1,3 +1,3 @@
-image: nimlang/nim
+FROM nimlang/nim
 
 RUN apt install libcurl
