@@ -1,3 +1,3 @@
 FROM nimlang/nim
 
-RUN apt install libcurl
+RUN apt install libcurl4
