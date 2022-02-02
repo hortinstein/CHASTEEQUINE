@@ -21,3 +21,6 @@
 
 # echo getContent(parseUri"http://8080-hortinstein-chasteequine-ep8qmltidfj.ws-us30.gitpod.io/")
   
+import puppy
+
+echo fetch("http://127.0.0.1:8080")
